@@ -13,7 +13,7 @@ Our main objective in this project is to:
 - Identify factors that influence churn rates
 - Calculate key performance indicators (KPIs) related to customer behavior
 
-#Methodology
+# Methodology
 We will use the following methodology to achieve our objectives:
 - Data Preparation: We will use Python and SQL to extract and clean the data, remove any duplicates, and transform the data into a format that is suitable for analysis.
 
